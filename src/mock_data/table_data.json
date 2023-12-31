@@ -1,0 +1,25 @@
+{
+    "subjects":[
+        {
+            "name":"calculas",
+            "display_name":"Calculas",
+            "credits":2
+        },
+        {
+            "name":"numerical_methods",
+            "display_name":"Neumerical Methods",
+            "credits":2
+        },
+        {
+            "name":"deep_neural_networks",
+            "display_name":"Deep Neural Networks",
+            "credits":3
+        },
+        {
+            "name":"advanced_software_engineering",
+            "display_name":"Advances Software Engineering",
+            "credits":2
+        }
+        
+    ]
+}
